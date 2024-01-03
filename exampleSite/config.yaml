@@ -126,7 +126,7 @@ params:
     intro: "Hi, my name is"
     title: "Angela Huang."
     subtitle: "I build things for the web"
-    content: "I am passionate about designing and developing robust web applications to enhance users' daily efficiency, combining insights from my business school background during undergrad with engineering expertise."
+    content: "I am passionate about developing robust web applications to enhance users' daily efficiency, combining insights from my business background with engineering expertise."
     image: /images/hero.svg
     bottomImage:
       enable: true
