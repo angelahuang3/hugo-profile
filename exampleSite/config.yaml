@@ -124,9 +124,9 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Angela."
+    title: "Angela Huang."
     subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    content: "I am passionate about designing and developing robust web applications to enhance users' daily efficiency, combining insights from my business school background during undergrad with engineering expertise."
     image: /images/hero.svg
     bottomImage:
       enable: true
