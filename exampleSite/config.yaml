@@ -1,7 +1,7 @@
 baseURL: "https://angelahuang3.netlify.app"
 languageCode: "en-us"
 title: "My Profile"
-theme: hugo-profile
+
 
 outputs:
   home:
