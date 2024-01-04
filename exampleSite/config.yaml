@@ -186,22 +186,23 @@ params:
         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
       - job: "Software Engineer Intern"
-        company: "Shin"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+        company: "Shin Kong Life Insurance Co., Ltd"
+        companyUrl: "https://www.skl.com.tw/index_en.html"
+        date: "Feb 2019 - Dec 2019"
         featuredLink:
           enable: true
-          name: "View the demo"
+          name: "View the project"
           url: "https://github.com/angelahuang3/employee_webservices"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: I worked as a software Engineer Intern for approximately one year at Shin Kong Life Insurance.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
+          - Built departmental knowledge-sharing platform using **Spring MVC, Microservices, Hibernate, Java, and PL/SQL.**
+          - Streamlined system features, including tags, search bar, and memo, employing HTML, JavaScript, CSS, and CK editor;
+            Decreased searching time for relevant information by 30%; Maintained version with Git and Maven.
+          - Collaborated closely with a team of developers, participating in code reviews and performance optimization.
+          - Applied Agile practices for efficient system design and troubleshooting, reducing development time by 10 days
+          - Conceptualized and prototyped UI/UX for pet insurance applications using Azure in response to user experience
   # Education
   education:
     enable: true
