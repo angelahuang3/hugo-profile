@@ -184,8 +184,8 @@ params:
           name: "View the project"
           url: "https://example.com"
         content:  |
-          - Developed full-stack technical assistance, maintenance, and financial systems with Spring Boot, Java, JavaScript, EJB,
-            Structs, and Oracle DBMS, effectively streamlining the logistic automation process for handling 50,000 vendor orders.
+          - Developed full-stack technical assistance, maintenance, and financial systems with **Spring Boot, Java, JavaScript, EJB,
+            Structs, and Oracle DBMS**, effectively streamlining the logistic automation process for handling 50,000 vendor orders.
           - Created APIs for cross-system data exchange, employing AJAX and JSON format for asynchronous communication,
             generating monthly reports, and managing 10 million transactional records across the web and mobile applications.
           - Enhanced system functionality through user feedback and achieved 100% code coverage via unit testing with Junit.
@@ -193,7 +193,7 @@ params:
             financial department through advanced predictive analysis using SQL scripts and Informatica.
             
       - job: "Software Engineer Intern"
-        company: "Shin Kong Life Insurance Co., Ltd"
+        company: "Shin Kong Life Insurance"
         companyUrl: "https://www.skl.com.tw/index_en.html"
         date: "Feb 2019 - Dec 2019"
         featuredLink:
