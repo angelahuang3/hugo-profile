@@ -200,12 +200,12 @@ params:
           name: "View the project"
           url: "https://github.com/angelahuang3/employee_webservices"
         content: |
-          - Built departmental knowledge-sharing platform using **Spring MVC**, Microservices, Hibernate, Java, and PL/SQL.
+          - Built departmental knowledge-sharing platform using Spring MVC, Microservices, Hibernate, Java, and PL/SQL.
           - Streamlined system features, including tags, search bar, and memo, employing HTML, JavaScript, CSS, and CK editor.
             Decreased searching time for relevant information by 30%; Maintained version with Git and Maven.
           - Collaborated closely with a team of developers, participating in code reviews and performance optimization.
-          - Applied Agile practices for efficient system design and troubleshooting, reducing development time by 10 days
-          - Conceptualized and prototyped UI/UX for pet insurance applications using Azure in response to user experience
+          - Applied Agile practices for efficient system design and troubleshooting, reducing development time by 10 days.
+          - Conceptualized and prototyped UI/UX for pet insurance applications using Azure in response to user experience.
           
   # Education
   education:
