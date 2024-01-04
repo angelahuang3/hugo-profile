@@ -183,8 +183,13 @@ params:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
+        content:  |
+          - Built departmental knowledge-sharing platform using **Spring MVC, Microservices, Hibernate, Java, and PL/SQL.**
+          - Streamlined system features, including tags, search bar, and memo, employing HTML, JavaScript, CSS, and CK editor;
+            Decreased searching time for relevant information by 30%; Maintained version with Git and Maven.
+          - Collaborated closely with a team of developers, participating in code reviews and performance optimization.
+          - Applied Agile practices for efficient system design and troubleshooting, reducing development time by 10 days
+          - Conceptualized and prototyped UI/UX for pet insurance applications using Azure in response to user experience
       - job: "Software Engineer Intern"
         company: "Shin Kong Life Insurance Co., Ltd"
         companyUrl: "https://www.skl.com.tw/index_en.html"
@@ -197,7 +202,7 @@ params:
           enable: true
           content: I worked as a software Engineer Intern for approximately one year at Shin Kong Life Insurance.
         content: |
-          - Built departmental knowledge-sharing platform using **Spring MVC, Microservices, Hibernate, Java, and PL/SQL.**
+          - Built departmental knowledge-sharing platform using Spring MVC, Microservices, Hibernate, Java, and PL/SQL.
           - Streamlined system features, including tags, search bar, and memo, employing HTML, JavaScript, CSS, and CK editor;
             Decreased searching time for relevant information by 30%; Maintained version with Git and Maven.
           - Collaborated closely with a team of developers, participating in code reviews and performance optimization.
