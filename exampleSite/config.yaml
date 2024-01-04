@@ -156,7 +156,7 @@ params:
     content: |-
       I am a highly motivated graduate student pursuing a Master's degree in **Computer Science and Engineering** from Santa Clara University.
 
-      I am a software developer with a passion for web development. I have a background in computer science and information management, and I have a strong interest in **cloud platforms** and **machine learning**. 
+      I am a software developer with a passion for **web development**. I have a background in computer science and information management, and I have a strong interest in **cloud platforms** and **machine learning**. 
      
       I specialize in utilizing **Java** and **Spring Framework** in **agile development** to create maintainable solutions. 
       
@@ -216,31 +216,27 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Master of Computer Science and Engineering"
         school:
-          name: "University of California, Berkeley"
+          name: "Santa Clara University"
           url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+        date: "2022 - 2024"
+        GPA: "3.6 out of 4.0"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+          Design & Analysis: Algorithms, Distributed Systems, Big Data, Engineering Project Management
+          Computer Network, Cloud Computing, Machine Learning, Operating System, Advanced Web Programming 
+            
+      - title: "Bachelor of Science in Computer Science and Information Management"
         school:
-          name: "Massachusetts Institute of Technology"
+          name: "Soochow University"
           url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+        date: "2016 - 2020"
+        GPA: "3.74 out of 4.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
+          
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
+            - 
+          featuredLink:
           enable: true
           name: "My academic record"
           url: "https://example.com"
