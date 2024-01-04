@@ -154,11 +154,13 @@ params:
     title: "About Me"
     image: "/images/me.jpg"
     content: |-
-      I am a highly motivated graduate student pursuing a Master's degree in Computer Science and Engineering from Santa Clara University.
+      I am a highly motivated graduate student pursuing a Master's degree in **Computer Science and Engineering** from Santa Clara University.
 
-      I am a software developer with a passion for web development. I have a background in computer science and information management, and I have a strong interest in cloud platforms and machine learning. 
+      I am a software developer with a passion for web development. I have a background in computer science and information management, and I have a strong interest in **cloud platforms** and **machine learning**. 
      
-      I specialize in utilizing Java and the Spring Framework in agile development to create versatile and maintainable solutions. I adhere to industry-standard Software Development Life Cycle (SDLC) practices to ensure the delivery of high-quality software.
+      I specialize in utilizing **Java** and **Spring Framework** in **agile development** to create maintainable solutions. 
+      
+      I adhere to industry-standard **Software Development Life Cycle (SDLC)** practices to ensure the delivery of high-quality software.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
