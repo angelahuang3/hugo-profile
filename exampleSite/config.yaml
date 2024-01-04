@@ -191,6 +191,7 @@ params:
           - Enhanced system functionality through user feedback and achieved 100% code coverage via unit testing with Junit.
           - Integrated and optimized data with large datasets and fulfilled ETL pipeline tasks to deliver precise information to the
             financial department through advanced predictive analysis using SQL scripts and Informatica.
+            
       - job: "Software Engineer Intern"
         company: "Shin Kong Life Insurance Co., Ltd"
         companyUrl: "https://www.skl.com.tw/index_en.html"
