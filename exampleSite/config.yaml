@@ -191,19 +191,16 @@ params:
           - Applied Agile practices for efficient system design and troubleshooting, reducing development time by 10 days
           - Conceptualized and prototyped UI/UX for pet insurance applications using Azure in response to user experience
       - job: "Software Engineer Intern"
-        company: "Shin Kong Life Insurance Co., Ltd"
+        company: "Shin Kong Life Insurance"
         companyUrl: "https://www.skl.com.tw/index_en.html"
         date: "Feb 2019 - Dec 2019"
         featuredLink:
           enable: true
           name: "View the project"
           url: "https://github.com/angelahuang3/employee_webservices"
-        info:
-          enable: true
-          content: I worked as a software Engineer Intern for approximately one year at Shin Kong Life Insurance.
         content: |
           - Built departmental knowledge-sharing platform using Spring MVC, Microservices, Hibernate, Java, and PL/SQL.
-          - Streamlined system features, including tags, search bar, and memo, employing HTML, JavaScript, CSS, and CK editor;
+          - Streamlined system features, including tags, search bar, and memo, employing HTML, JavaScript, CSS, and CK editor.
             Decreased searching time for relevant information by 30%; Maintained version with Git and Maven.
           - Collaborated closely with a team of developers, participating in code reviews and performance optimization.
           - Applied Agile practices for efficient system design and troubleshooting, reducing development time by 10 days
