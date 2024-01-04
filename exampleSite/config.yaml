@@ -205,6 +205,7 @@ params:
           - Collaborated closely with a team of developers, participating in code reviews and performance optimization.
           - Applied Agile practices for efficient system design and troubleshooting, reducing development time by 10 days
           - Conceptualized and prototyped UI/UX for pet insurance applications using Azure in response to user experience
+          
   # Education
   education:
     enable: true
